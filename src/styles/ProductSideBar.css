@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+.sideBar {
+  text-align: center;
+  background: rgb(222, 220, 220);
+  width: 20%;
+  height: 90vh;
+}
+
+.sideBar_title {
+  font-family: 'Roboto Mono', monospace;
+  color: #000;
+  font-size: 22px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
